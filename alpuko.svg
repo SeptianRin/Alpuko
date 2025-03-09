@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    
+  <!-- Stylized avocado with rounded bottom -->
+  <path d="M100 40 C130 40, 155 80, 160 120 C165 160, 140 180, 100 185 C60 180, 35 160, 40 120 C45 80, 70 40, 100 40" fill="#4CAF50"/>
+  
+  <!-- Cut section/highlight with rounded bottom -->
+  <path d="M100 60 C125 60, 140 90, 145 125 C150 160, 130 165, 100 170 C70 165, 50 160, 55 125 C60 90, 75 60, 100 60" fill="#388E3C"/>
+  
+  <!-- Avocado pit (positioned slightly lower) -->
+  <circle cx="100" cy="125" r="30" fill="#795548"/>
+  
+  <!-- Small highlight on pit -->
+  <circle cx="90" cy="115" r="5" fill="#8D6E63"/>
+  
+  <!-- Thicker white line going from center to the RIGHT border only -->
+  <path d="M100 125 L158 125" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Improved leaf curve from previous design -->
+  <path d="M100 40 C110 15, 135 25, 120 45 C125 50, 115 55, 105 45" stroke="#388E3C" stroke-width="5" fill="none"/>
+</svg>
