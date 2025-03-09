@@ -1,11 +1,12 @@
-
 <p align="center">
-<img src="alpuko.svg"/>
+<img src="alpuko.svg" alt="logo alpuko" width="200"/>
 </p>
+
+# Alpuko
 
 ## About Alpuko
 
-CAlpuko is abreviation from All Pure Kotlin. 
+Alpuko is abreviation from All Pure Kotlin.
 
 This repo is aiming for trying android development to purely from Gradle, UI, and Any related Extension.
 
